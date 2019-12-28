@@ -26,8 +26,8 @@
 
 ## mousejack
 
-#### [jackit](https://github.com/insecurityofthings/jackit
+#### [jackit](https://github.com/insecurityofthings/jackit)
 
-https://www.mousejack.com/
+demo: www.mousejack.com/
 
 
