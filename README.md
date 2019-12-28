@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Ondrik8/HARD_device_attack/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## [HomePWN](https://github.com/ElevenPaths/HomePWN)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#### **HomePwn. Bluetooth Low-Energy PoC & Hacking**
+[![HomePwn. Bluetooth Low-Energy PoC & Hacking](https://img.youtube.com/vi/JgbIsP7IGxo/0.jpg)](https://www.youtube.com/watch?v=JgbIsP7IGxo)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### **HomePwn. Bluetooth Spoofing**
+[![HomePwn. Bluetooth Spoofing](https://img.youtube.com/vi/o9P1BwlHelM/0.jpg)](https://www.youtube.com/watch?v=o9P1BwlHelM)
 
-```markdown
-Syntax highlighted code block
+#### **HomePwn. NFC Clone**
+[![HomePwn. NFC Clone](https://img.youtube.com/vi/ZLas04ZCTLU/0.jpg)](https://www.youtube.com/watch?v=ZLas04ZCTLU)
 
-# Header 1
-## Header 2
-### Header 3
+#### **HomePwn. BLE capture on PCAP file (sniffing)**
+[![HomePwn. BLE capture on PCAP file (sniffing)](https://img.youtube.com/vi/vw9nr584PJQ/0.jpg)](https://www.youtube.com/watch?v=vw9nr584PJQ)
 
-- Bulleted
-- List
+#### **HomePwn. QR Options hack**
+[![HomePwn. QR Options hack](https://img.youtube.com/vi/ta1DbnWOF8M/0.jpg)](https://www.youtube.com/watch?v=ta1DbnWOF8M)
 
-1. Numbered
-2. List
+#### **HomePwn. Apple BLE Discovery**
+[![HomePwn. Apple BLE Discovery](https://img.youtube.com/vi/xOU34op7Gls/0.jpg)](https://www.youtube.com/watch?v=xOU34op7Gls)
 
-**Bold** and _Italic_ and `Code` text
+#### **HomePwn. Xiaomi IoT Advertisement**
+[![HomePwn. Xiaomi IoT Advertisement](https://img.youtube.com/vi/Xi7KZibJsfE/0.jpg)](https://www.youtube.com/watch?v=Xi7KZibJsfE)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## mousejack
 
-### Jekyll Themes
+#### [jackit](https://github.com/insecurityofthings/jackit
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ondrik8/HARD_device_attack/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+https://www.mousejack.com/
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
