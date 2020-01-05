@@ -39,3 +39,5 @@ incl. HackRF, BladeRF, USRP, RTL-SDR and others + SigintOS-Tool, GnuRadio, YateB
 [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks)
 
 [h4ck IOT](https://github.com/The-Art-of-Hacking/h4cker/tree/master/IoT)
+
+[router-exploitation](https://github.com/topics/router-exploitation-framework)
