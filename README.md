@@ -36,4 +36,6 @@ demo: www.mousejack.com/
 incl. HackRF, BladeRF, USRP, RTL-SDR and others + SigintOS-Tool, GnuRadio, YateBTS, srsLTE, IMSI Catcher and others*
 
 
-https://github.com/nebgnahz/awesome-iot-hacks
+[awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks)
+
+[h4ck IOT](https://github.com/The-Art-of-Hacking/h4cker/tree/master/IoT)
