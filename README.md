@@ -30,6 +30,8 @@
 
 demo: www.mousejack.com/
 
+#### [rubber-ducky](https://www.sc0tfree.com/sc0tfree-blog/optimizing-rubber-ducky-attacks-with-empire-stagers)
+
 
 ## [sigintos](https://www.sigintos.com)
 
