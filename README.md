@@ -48,6 +48,6 @@ incl. HackRF, BladeRF, USRP, RTL-SDR and others + SigintOS-Tool, GnuRadio, YateB
 
 SDRangel - это интерфейс с открытым исходным кодом Qt5 / OpenGL 3.0+ SDR и анализатор сигналов для различных аппаратных средств.
 
-![SDR Angel banner](doc/img/sdrangel_banner.png)
+![SDR Angel banner](https://github.com/f4exb/sdrangel/doc/img/sdrangel_banner.png)
 
 
