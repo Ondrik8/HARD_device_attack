@@ -43,3 +43,11 @@ incl. HackRF, BladeRF, USRP, RTL-SDR and others + SigintOS-Tool, GnuRadio, YateB
 [h4ck IOT](https://github.com/The-Art-of-Hacking/h4cker/tree/master/IoT)
 
 [router-exploitation](https://github.com/topics/router-exploitation-framework)
+
+[sdrangel](https://github.com/f4exb/sdrangel)
+
+SDRangel - это интерфейс с открытым исходным кодом Qt5 / OpenGL 3.0+ SDR и анализатор сигналов для различных аппаратных средств.
+
+![SDR Angel banner](doc/img/sdrangel_banner.png)
+
+
