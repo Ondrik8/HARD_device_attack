@@ -51,3 +51,9 @@ SDRangel - это интерфейс с открытым исходным код
 ![SDR Angel banner](https://github.com/f4exb/sdrangel/blob/master/doc/img/sdrangel_banner.png)
 
 
+lOT Sec
+https://github.com/Samsung/cotopaxi
+
+
+
+
