@@ -24,6 +24,31 @@
 [![HomePwn. Xiaomi IoT Advertisement](https://img.youtube.com/vi/Xi7KZibJsfE/0.jpg)](https://www.youtube.com/watch?v=Xi7KZibJsfE)
 
 
+### Wifi Attacks:
+
+- [Fluxion](https://github.com/FluxionNetwork/fluxion)
+- [Wifiphisher](https://github.com/wifiphisher/wifiphisher)
+- [WiFiBroot](https://github.com/hash3liZer/WiFiBroot)
+- [Wifite](https://github.com/derv82/wifite)
+- [Ettercap](https://www.ettercap-project.org)
+- [Linset](https://github.com/chunkingz/linsetmv1-2)
+- [Wifi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin)
+- [Wifresti](https://github.com/LionSec/wifresti)
+- [Evillimiter](https://github.com/bitbrute/evillimiter)
+- [Netool-toolkit](https://github.com/r00t-3xp10it/netool-toolkit)
+- [Dracnmap](https://github.com/Screetsec/Dracnmap)
+- [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)
+- [Routersploit](https://www.github.com/threat9/routersploit)
+- [Eaphammer](https://github.com/s0lst1c3/eaphammer)
+- [VMR-MDK](https://github.com/chunkingz/VMR-MDK-K2-2017R-012x4)
+- [FakeAP](https://github.com/thelinuxchoice/fakeap)
+- [Wirespy](https://github.com/aress31/wirespy)
+- [Wireshark](https://www.wireshark.org)
+- [SniffAir](https://github.com/Tylous/SniffAir)
+- [Wifijammer](https://github.com/DanMcInerney/wifijammer)
+
+
+
 ## mousejack
 
 #### [jackit](https://github.com/insecurityofthings/jackit)
