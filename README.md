@@ -59,6 +59,8 @@
 
 demo: www.mousejack.com/
 
+https://www.bettercap.org/modules/hid/
+
 #### [rubber-ducky](https://www.sc0tfree.com/sc0tfree-blog/optimizing-rubber-ducky-attacks-with-empire-stagers)
 
 
