@@ -53,6 +53,8 @@
 
 
 
+
+
 ## mousejack
 
 #### [jackit](https://github.com/insecurityofthings/jackit)
@@ -62,6 +64,10 @@ demo: www.mousejack.com/
 https://www.bettercap.org/modules/hid/
 
 #### [rubber-ducky](https://www.sc0tfree.com/sc0tfree-blog/optimizing-rubber-ducky-attacks-with-empire-stagers)
+
+Generator payloads for Ducky:  https://ducktoolkit.com/
+
+#### https://github.com/topics/rubberducky 
 
 
 ## [sigintos](https://www.sigintos.com)
