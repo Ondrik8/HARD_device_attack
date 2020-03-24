@@ -1,6 +1,7 @@
 
 https://telegra.ph/CHemodanchik-hakera-2020-03-20
 
+Дефолтные пароли устройств. --> https://default-password.info
 
 ## [HomePWN](https://github.com/ElevenPaths/HomePWN)
 
