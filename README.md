@@ -322,5 +322,6 @@ lOT Sec
 https://github.com/Samsung/cotopaxi
 
 
+![Logo](https://github.com/rfidtool/ESP-RFID-Tool/blob/master/Images/logo.png?raw=true)  
 
-
+[ESP-RFID-Tool_BLOG](http://www.legacysecuritygroup.com/?start=0)
