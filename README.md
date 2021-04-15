@@ -4,6 +4,8 @@
 
 ### [NVIDIA_vgpu_unlock](https://github.com/DualCoder/vgpu_unlock)
 
+### [JavaScript Exploit Can Now Carry Out DDR4 Rowhammer Attacks](https://thehackernews.com/2021/04/new-javascript-exploit-can-now-carry.html)
+
 # Awesome-Cellular-Hacking 
 Please note multiple researchers published and compiled this work. This is a list of their research in the 3G/4G/5G Cellular security space. This information is intended to consolidate the community's knowledge. Thank you, I plan on frequently updating this "Awesome Cellular Hacking" curated list with the most up to date exploits, blogs, research, and papers.
 
