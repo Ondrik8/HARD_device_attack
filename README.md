@@ -1,5 +1,6 @@
 ## [PENIOT: Penetration Testing Tool for IoT](https://github.com/yakuza8/peniot)
 
+### [Frida Cheatsheet](https://rehex.ninja/posts/frida-cheatsheet/)
 
 ### [NVIDIA_vgpu_unlock](https://github.com/DualCoder/vgpu_unlock)
 
