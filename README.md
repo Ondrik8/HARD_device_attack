@@ -1,3 +1,6 @@
+## [РУССКИЙ НАЦИОНАЛЬНЫЙ ХАКИНГ : Павел Жовнер](https://youtu.be/c3JQM8_O-Ao)
+
+
 ## [PENIOT: Penetration Testing Tool for IoT](https://github.com/yakuza8/peniot)
 
 ### [Frida Cheatsheet](https://rehex.ninja/posts/frida-cheatsheet/)
