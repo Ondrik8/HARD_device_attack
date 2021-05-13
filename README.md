@@ -6,6 +6,7 @@
 
 ## [РУССКИЙ НАЦИОНАЛЬНЫЙ ХАКИНГ : Павел Жовнер](https://youtu.be/c3JQM8_O-Ao)
 
+## [Собираем глушилку из г-на и палок](https://youtu.be/2BoeIaE5LRA)
 
 ## [PENIOT: Penetration Testing Tool for IoT](https://github.com/yakuza8/peniot)
 
