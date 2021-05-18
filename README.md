@@ -2,6 +2,8 @@
 
 #### [NFC и Apple Pay и уронить человека с гироскутера](https://telegra.ph/Luchshee-s-mirovyh-IB-konferencij-Kak-vzlomat-NFC-i-Apple-Pay-i-uronit-cheloveka-s-giroskutera-06-25)
 
+### [Атака авто-сигнализации](https://telegra.ph/Ataka-na-signalku-Izuchaem-bezopasnost-sistemy-avtomobilnoj-signalizacii-06-27)
+
 ### [CAN-Bus-Arduino-Tool](https://github.com/HackingThings/CAN-Bus-Arduino-Tool)
 
 ### [Evil Crow RF](https://www.hackster.io/news/esp32-powered-arduino-compatible-evil-crow-rf-offers-easy-to-use-sub-ghz-rf-for-pen-testers-a66d7676c031)
