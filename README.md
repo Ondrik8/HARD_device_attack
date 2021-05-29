@@ -1,5 +1,7 @@
 ![pic](https://miro.medium.com/max/4096/1*c46yg5guDizVwsMTycVroA.jpeg)
 
+#### [sniffer for Bluetooth 5 and 4.x (LE)](https://github.com/nccgroup/Sniffle#prerequisites)
+
 #### [NFC и Apple Pay и уронить человека с гироскутера](https://telegra.ph/Luchshee-s-mirovyh-IB-konferencij-Kak-vzlomat-NFC-i-Apple-Pay-i-uronit-cheloveka-s-giroskutera-06-25)
 
 ### [Атака авто-сигнализации](https://telegra.ph/Ataka-na-signalku-Izuchaem-bezopasnost-sistemy-avtomobilnoj-signalizacii-06-27)
