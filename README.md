@@ -1,5 +1,7 @@
 ![pic](/sdr-space.jpg)
 
+### [GSM ОБОРУДОВАНИЕ](https://teletype.in/@royal_bank/MCS3q_jj8)
+
 #### [sniffer for Bluetooth 5 and 4.x (LE)](https://github.com/nccgroup/Sniffle#prerequisites)
 
 #### [NFC и Apple Pay и уронить человека с гироскутера](https://telegra.ph/Luchshee-s-mirovyh-IB-konferencij-Kak-vzlomat-NFC-i-Apple-Pay-i-uronit-cheloveka-s-giroskutera-06-25)
