@@ -1,4 +1,4 @@
-![pic](https://miro.medium.com/max/4096/1*c46yg5guDizVwsMTycVroA.jpeg)
+![pic](/sdr-space.jpg)
 
 #### [sniffer for Bluetooth 5 and 4.x (LE)](https://github.com/nccgroup/Sniffle#prerequisites)
 
