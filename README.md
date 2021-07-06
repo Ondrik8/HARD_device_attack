@@ -1,5 +1,7 @@
 ![pic](/sdr-space.jpg)
 
+### [BLOG & SHOP](https://mg.lol/blog/)
+
 ### [GSM ОБОРУДОВАНИЕ](https://teletype.in/@royal_bank/MCS3q_jj8)
 
 #### [sniffer for Bluetooth 5 and 4.x (LE)](https://github.com/nccgroup/Sniffle#prerequisites)
