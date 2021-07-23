@@ -1,8 +1,33 @@
 ![pic](/sdr-space.jpg)
 
+
+
+
+#### Фреймворки для тестирования проникновения IOT:
+
+	https://gitlab.com/expliot_framework/expliot
+  https://gitlab.com/invuls/iot-projects/iotsecfuzz
+  https://github.com/threat9/routersploit
+
+#### Инструменты reverse инжиниринга прошивки IOT:
+
+  https://github.com/ReFirmLabs/binwalk
+  https://github.com/craigz28/firmwalker
+  https://github.com/fkie-cad/FACT_core
+  https://github.com/david-a-wheeler/flawfinder
+  https://github.com/rampageX/firmware-mod-kit
+  https://github.com/radareorg/r2ghidra-dec
+  https://github.com/CERTCC/trommel
+  https://github.com/ChrisTheCoolHut/Firmware_Slap
+  https://github.com/angr/angr
+  
+  
+
+
 ### [BLOG & SHOP](https://mg.lol/blog/)
 
 ### [GSM ОБОРУДОВАНИЕ](https://teletype.in/@royal_bank/MCS3q_jj8)
+#### [статьи на русском по теме GSM](https://telegra.ph/Zapuskaem-GSM-set-u-sebya-doma-analiz-GSM-setej-v-Wireshark-rabotaem-s-GPRS-prakticheskie-primery-atak-vnutri-GSM-seti-CHetyre-p-07-14)
 
 #### [sniffer for Bluetooth 5 and 4.x (LE)](https://github.com/nccgroup/Sniffle#prerequisites)
 
