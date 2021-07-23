@@ -1,6 +1,9 @@
 ![pic](/sdr-space.jpg)
 
 
+### [interactive-shell-via-bluetooth](https://www.tarlogic.com/blog/interactive-shell-via-bluetooth/)
+
+
 ````
 
 Фреймворки для тестирования проникновения IOT:
