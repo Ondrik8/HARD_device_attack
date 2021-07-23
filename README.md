@@ -1,15 +1,15 @@
 ![pic](/sdr-space.jpg)
 
 
+````
 
+Фреймворки для тестирования проникновения IOT:
 
-#### Фреймворки для тестирования проникновения IOT:
-
-	https://gitlab.com/expliot_framework/expliot
+  https://gitlab.com/expliot_framework/expliot
   https://gitlab.com/invuls/iot-projects/iotsecfuzz
   https://github.com/threat9/routersploit
 
-#### Инструменты reverse инжиниринга прошивки IOT:
+Инструменты reverse инжиниринга прошивки IOT:
 
   https://github.com/ReFirmLabs/binwalk
   https://github.com/craigz28/firmwalker
@@ -21,8 +21,7 @@
   https://github.com/ChrisTheCoolHut/Firmware_Slap
   https://github.com/angr/angr
   
-  
-
+````
 
 ### [BLOG & SHOP](https://mg.lol/blog/)
 
