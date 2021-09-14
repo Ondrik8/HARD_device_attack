@@ -261,6 +261,21 @@ transmission of eNodeB to eNodeB RF communication.
 
 [![Screenshot of simulation](https://miro.medium.com/max/1000/1*sgtadmC1UfN3g-x_cjgkQA.png)](https://medium.com/bugbountywriteup/car-hacking-with-python-part-1-data-exfiltration-gps-and-obdii-can-bus-69bc6b101fd1)
 
+#### CAR hacking
+
+1. https://freecodecamp.org/news/hacking-cars-a-guide-tutorial-on-how-to-hack-a-car-5eafcfbbb7ec/
+
+2. https://cactuscon.com/2021-talks-and-workshops/introduction-to-car-hacking-basics
+
+3. https://amazon.com/Car-Hackers-Handbook-Penetration-Tester/dp/1593277032
+
+4. https://github.com/jaredthecoder/awesome-vehicle-security
+
+5. https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53
+
+6. https://medium.com/@souravbaghz/a-quick-guide-to-hack-car-intro-to-canghost-f9370a0a51b5
+
+7. https://youtube.com/watch?v=nn-_3AbtEkI
 
 
 #### drone hacking
