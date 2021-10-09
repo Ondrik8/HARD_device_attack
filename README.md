@@ -3,6 +3,9 @@
 
 ### [RFID протоколы и как их похекать с помощью Flipper Zero](https://habr.com/ru/company/flipperdevices/blog/571838/)
 
+![pic](/HHH.png)
+https://github.com/Ondrik8/HARD_device_attack/blob/master/The_Hardware_Hacking_Handbook_Breaking_Embedded_Security_with_Hardware.pdf
+
 
 ### [Android-PIN-Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce)
 
