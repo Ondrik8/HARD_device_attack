@@ -1,5 +1,9 @@
 ![pic](/sdr-space.jpg)
 
+### Medvejatnik
+
+https://www.youtube.com/channel/UCnJzwMaQxQux3kTqoGYC6hg
+
 
 ### [RFID протоколы и как их похекать с помощью Flipper Zero](https://habr.com/ru/company/flipperdevices/blog/571838/)
 
