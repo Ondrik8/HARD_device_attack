@@ -1,5 +1,9 @@
 ![pic](/sdr-space.jpg)
 
+### Starlink router
+
+https://olegkutkov.me/2021/12/25/analysis-and-reverse-engineering-of-the-original-starlink-router/
+
 ### Medvejatnik (вскрытие замков)
 
 https://www.youtube.com/channel/UCnJzwMaQxQux3kTqoGYC6hg
