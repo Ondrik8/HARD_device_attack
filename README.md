@@ -1,5 +1,8 @@
 ![pic](/sdr-space.jpg)
 
+
+https://docs.srsran.com/en/latest/_images/5G_NSA_mode3.png
+
 ### Starlink router
 
 https://olegkutkov.me/2021/12/25/analysis-and-reverse-engineering-of-the-original-starlink-router/
