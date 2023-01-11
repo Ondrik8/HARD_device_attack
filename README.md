@@ -2,7 +2,7 @@
 
 
 ![pic](https://docs.srsran.com/en/latest/_images/5G_NSA_mode3.png)https://docs.srsran.com/en/latest/index.html
-https://docs.srsran.com/en/latest/index.html
+
 
 ### Starlink router
 
