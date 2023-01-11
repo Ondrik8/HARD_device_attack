@@ -1,7 +1,7 @@
 ![pic](/sdr-space.jpg)
 
 
-https://docs.srsran.com/en/latest/_images/5G_NSA_mode3.png
+![pic](https://docs.srsran.com/en/latest/_images/5G_NSA_mode3.png)
 
 ### Starlink router
 
