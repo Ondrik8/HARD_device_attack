@@ -5,6 +5,7 @@
 
 ### 4G - 5G attacking 
 https://asset-group.github.io/disclosures/5ghoul/disclosure.html
+& jamming -> https://ningning-hou.github.io/homepage/files/rewrite_Jamming_TOSN.pdf
 
 ### Starlink router
 
